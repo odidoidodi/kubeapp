@@ -25,7 +25,7 @@
      ```
    - To`vproappdep.yaml`:
      ```
-      image: vprofile/vprofileapp
+     image: vprofile/vprofileapp
      ```
 
 
