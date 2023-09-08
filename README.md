@@ -14,11 +14,16 @@
      ```
      image: idodi/db:latest
      ```
-   
+   - To `vprofile/vprofiledb`
+     ```
+     
    - In `vprodbdep.yaml`:
      ```
      image: idodi/vpro:latest
      ```
+   - To `vprofile/vprofileapp`
+     ```
+
 
 4. **Image Source**: It is strongly recommended to pull the required images from the "visualpath" profile on Docker Hub to ensure compatibility and to avoid potential issues related to misspellings or incorrect image sources.
 
