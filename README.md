@@ -14,9 +14,9 @@
      ```
      image: idodi/db:latest
      ```
-     - To`vproappdep.yaml`:
+   - To`vproappdep.yaml`:
      ```
-      image: vprofile/vprofiledb
+     image: vprofile/vprofiledb
      ```
      
    - In `vprodbdep.yaml`:
