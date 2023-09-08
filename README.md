@@ -14,14 +14,18 @@
      ```
      image: idodi/db:latest
      ```
-   - To `vprofile/vprofiledb`
+     - To`vproappdep.yaml`:
+     ```
+      image: vprofile/vprofiledb
      ```
      
    - In `vprodbdep.yaml`:
      ```
      image: idodi/vpro:latest
      ```
-   - To `vprofile/vprofileapp`
+   - To`vproappdep.yaml`:
+     ```
+      image: vprofile/vprofileapp
      ```
 
 
